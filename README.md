@@ -1,4 +1,4 @@
 # Git Practice
-**Article: https://www.businessinsider.in/tech/news/its-never-been-more-clear-companies-should-give-up-on-back-to-office-and-let-us-all-work-remotely-permanently/articleshow/86320112.cms**
+**Article: https://developer-tech.com/news/2021/sep/28/gitpod-openvscode-cloud-ide-free-microsofts-control/**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I would personally really enjoy an overall shift to remotely-working offices. It especially makes sense for a software-development environment, where everything is readily portable. Developers could find it far more convenient to have the choice to remain home or even use their own personalized setups. Overall, a transition to working from home could be a massive boon to software developers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I personally use VSCode heavily, so I would be interested in an alternative like this. VSCode is one of the more popular IDEs, so this IDE may gain traction by taking some of that userbase, especially as interest for privacy-focused alternatives like this grow in the software community. OpenVSCode could become one of those resources strongly reccomended by a community of users until it becomes a top name.
